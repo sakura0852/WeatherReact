@@ -1,0 +1,75 @@
+
+.h1{
+  font-size: 3.5rem;
+  margin-bottom: 50px;
+}
+.form{
+  min-height: 100vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.VVod{
+  display: flex;
+  gap: 15px;
+  margin-bottom: 60px;
+  text-align: center;
+  justify-content: center;
+}
+.vuvodDiv{
+  color: rgb(124, 118, 118);
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  justify-content: center;
+  
+
+  
+}
+h2{
+  font-size: 3rem;
+  margin: 10px 0;
+}
+.temp{
+  font-size: 5.5rem;
+  font-weight: bold;
+  margin: 10px 0;
+
+}
+.condition{
+  font-size: 2.3rem;
+  opacity: 0.9;
+}
+.icon{
+  font-size: 140px;
+  margin: 20px 0;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.3));
+}
+.button{
+  padding: 16px 36px;
+  font-size: 1.3rem;
+  color: #000000ff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow:0 4px 15px rgba(0,0,0,0.1) ;
+  transition: all 0.2s;
+}
+.inpput{
+  padding: 16px 20px;
+  font-size:  1.3rem ;
+  width: 340px;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+
+}
